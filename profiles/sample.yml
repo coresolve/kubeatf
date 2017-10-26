@@ -1,0 +1,4 @@
+---
+kubeatf_profile_name: "kops-1.7.0"
+  installer: "kops"
+  release:   "1.7.0"
